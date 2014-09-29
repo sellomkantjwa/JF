@@ -13,7 +13,10 @@
     <description>Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.</description>
     <releaseNotes>http://blog.getbootstrap.com/2013/12/05/bootstrap-3-0-3-released</releaseNotes>
     <copyright>Copyright 2013</copyright>
+<<<<<<< HEAD
     <language />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <tags>bootstrap html css javascript web</tags>
     <dependencies>
       <dependency id="jquery" version="1.9.0" />

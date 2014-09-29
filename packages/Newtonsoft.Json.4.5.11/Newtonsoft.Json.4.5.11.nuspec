@@ -10,8 +10,11 @@
     <projectUrl>http://james.newtonking.com/projects/json-net.aspx</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Json.NET is a popular high-performance JSON framework for .NET</description>
+<<<<<<< HEAD
     <releaseNotes />
     <copyright />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <language>en-US</language>
     <tags>json</tags>
   </metadata>

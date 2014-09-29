@@ -58,8 +58,9 @@ namespace JFMVC.Models
     public class LoginModel
     {
         [Required]
-        [Display(Name = "User name")]
-        public string UserName { get; set; }
+        [Display(Name = "Email")]
+        [EmailAddress(ErrorMessage = "Invalid Email Address, please check the format")]
+        public string email { get; set; }
 
         [Required]
         [DataType(DataType.Password)]
@@ -73,7 +74,8 @@ namespace JFMVC.Models
     public class RegisterModel
     {
         [Required]
-        [Display(Name = "User name")]
+        [Display(Name = "Email")]
+        [EmailAddress(ErrorMessage = "Invalid Email Address, please check the format")]
         public string UserName { get; set; }
 
         [Required]
@@ -86,12 +88,5 @@ namespace JFMVC.Models
         [Display(Name = "Confirm password")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
-    }
-
-    public class ExternalLogin
-    {
-        public string Provider { get; set; }
-        public string ProviderDisplayName { get; set; }
-        public string ProviderUserId { get; set; }
     }
 }

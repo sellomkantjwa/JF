@@ -10,8 +10,11 @@
     <projectUrl>http://www.asp.net/mvc</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>This package contains a workaround for a bug affecting mobile view caching in ASP.NET MVC 4. More information is available at http://www.asp.net/whitepapers/mvc4-release-notes.</description>
+<<<<<<< HEAD
     <releaseNotes />
     <copyright />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <language>en-US</language>
     <tags>Microsoft AspNet Mvc AspNetMvc</tags>
     <dependencies>

@@ -3,7 +3,10 @@
   <metadata>
     <id>knockoutjs</id>
     <version>2.2.0</version>
+<<<<<<< HEAD
     <title />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <authors>Steven Sanderson</authors>
     <owners>Steven Sanderson</owners>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
@@ -11,8 +14,11 @@
     <iconUrl>http://github.com/SteveSanderson/knockout.nuget/raw/master/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A JavaScript MVVM library to help you create rich, dynamic user interfaces with clean maintainable code</description>
+<<<<<<< HEAD
     <releaseNotes />
     <copyright />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <language>en-US</language>
     <tags>knockout mvvm</tags>
   </metadata>

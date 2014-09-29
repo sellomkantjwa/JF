@@ -5,7 +5,11 @@
     <version>4.1.4.12333</version>
     <title>DotNetOpenAuth extensions for ASP.NET (WebPages)</title>
     <authors>Microsoft</authors>
+<<<<<<< HEAD
     <owners>Microsoft</owners>
+=======
+    <owners>Outercurve Foundation</owners>
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <licenseUrl>http://www.opensource.org/licenses/ms-pl.html</licenseUrl>
     <projectUrl>http://www.dotnetopenauth.net/</projectUrl>
     <iconUrl>https://github.com/AArnott/dotnetopenid/raw/v3.4/doc/logo/dnoa-logo_32x32.png</iconUrl>
@@ -13,9 +17,12 @@
     <description>Enables web site visitors to log into an ASP.NET web application via popular identity providers,
 			including Google, Yahoo!, Windows Live, Facebook, LinkedIn and Twitter.</description>
     <summary>Allow your web visitors to log into your web site using accounts they already have with popular services.</summary>
+<<<<<<< HEAD
     <releaseNotes />
     <copyright />
     <language />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <dependencies>
       <dependency id="DotNetOpenAuth.OpenId.RelyingParty" version="[4.1.4.12333]" />
       <dependency id="DotNetOpenAuth.OAuth.Consumer" version="[4.1.4.12333]" />

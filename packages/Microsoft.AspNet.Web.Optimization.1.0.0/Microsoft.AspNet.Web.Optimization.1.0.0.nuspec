@@ -7,12 +7,17 @@
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <licenseUrl>http://www.microsoft.com/web/webpi/eula/weboptimization_1_eula_ENU.htm</licenseUrl>
+<<<<<<< HEAD
     <iconUrl>https://download-codeplex.sec.s-msft.com/Download?ProjectName=aspnetwebstack&amp;DownloadId=360555</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>ASP.NET Optimization introduces a way to bundle and optimize css/js files.</description>
     <releaseNotes />
     <copyright />
     <language />
+=======
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ASP.NET Optimization introduces a way to bundle and optimize css/js files.</description>
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <tags>Microsoft AspNet optimization bundling minification</tags>
     <dependencies>
       <dependency id="Microsoft.Web.Infrastructure" version="1.0.0" />

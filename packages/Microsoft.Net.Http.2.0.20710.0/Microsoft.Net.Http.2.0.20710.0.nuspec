@@ -10,6 +10,7 @@
     <projectUrl>http://www.asp.net/web-api</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>This package provides a programming interface for modern HTTP applications. This package includes HttpClient for sending requests over HTTP, as well as HttpRequestMessage and HttpResponseMessage for processing HTTP messages.</description>
+<<<<<<< HEAD
     <releaseNotes />
     <copyright />
     <language />
@@ -17,5 +18,8 @@
       <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.5" />
       <frameworkAssembly assemblyName="System.Net.Http.WebRequest" targetFramework=".NETFramework4.5" />
     </frameworkAssemblies>
+=======
+    <language>en-US</language>
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
   </metadata>
 </package>

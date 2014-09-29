@@ -5,16 +5,23 @@
     <version>4.1.4.12333</version>
     <title>DotNetOpenAuth OpenID Core</title>
     <authors>Andrew Arnott</authors>
+<<<<<<< HEAD
     <owners>Andrew Arnott</owners>
+=======
+    <owners>Outercurve Foundation</owners>
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <licenseUrl>http://www.opensource.org/licenses/ms-pl.html</licenseUrl>
     <projectUrl>http://www.dotnetopenauth.net/</projectUrl>
     <iconUrl>https://github.com/AArnott/dotnetopenid/raw/v3.4/doc/logo/dnoa-logo_32x32.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This package contains shared code for other NuGet packages, and contains no public API in and of itself.</description>
     <summary>Common functionality required to implement an OpenID Provider or Relying Party.</summary>
+<<<<<<< HEAD
     <releaseNotes />
     <copyright />
     <language />
+=======
+>>>>>>> e566d13a4865cb4709cd99798a6e75e08e3d2e56
     <dependencies>
       <dependency id="DotNetOpenAuth.Core" version="[4.1.4.12333]" />
     </dependencies>
